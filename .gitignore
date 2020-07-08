@@ -1,0 +1,23 @@
+
+Python Audio Recognition/.vscode/settings.json
+Python Audio Recognition/__pycache__/ConvertMidiToFeatures.cpython-37.pyc
+Python Audio Recognition/__pycache__/ConvertWavToMidi.cpython-37.pyc
+Python Audio Recognition/__pycache__/FileManagement.cpython-37.pyc
+Python Audio Recognition/midiTest_no_zscore_0.png
+Python Audio Recognition/midiTest_no_zscore_1.png
+Python Audio Recognition/midiTest_no_zscore_2.png
+Python Audio Recognition/midiTest_zscore_0.png
+Python Audio Recognition/midiTest_zscore_1.png
+Python Audio Recognition/midiTest_zscore_2.png
+Python Audio Recognition/MidtermAudio/Ain't it fun Test 2.wav
+Python Audio Recognition/MidtermAudio/test.wav
+Python Audio Recognition/MidtermFeatures/Ain't it fun Test 2.json
+Python Audio Recognition/MidtermFeatures/All Star.json
+Python Audio Recognition/MidtermFeatures/test.json
+Python Audio Recognition/MidtermFeatures/Wonderwall Test 2.json
+Python Audio Recognition/MidtermMidi/Ain't it fun Test 2.mid
+Python Audio Recognition/MidtermMidi/All Star.mid
+Python Audio Recognition/MidtermMidi/test.mid
+Python Audio Recognition/MidtermMidi/Wonderwall Test 2.mid
+Python Audio Recognition/new Midi Test.mid
+Python Audio Recognition/tempCodeRunnerFile.py
