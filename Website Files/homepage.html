@@ -1,0 +1,70 @@
+<!Doctype html>
+<html>
+
+<style type="text/css">
+	.input{
+	text-align:center;
+	}
+	.search{
+	float:right;
+	}
+	.words{
+	text-align:center;
+	padding:10px;
+	}
+	.picture{
+	padding:15px;
+	}
+	#main-head{
+	text-align:left;
+	background-color:red;
+	text-color: clear;
+	text-decoration:none;
+	color:white;
+
+	padding:15px;
+	}
+	a{
+	text-decoration:none;
+	}
+	a:hover{
+	color: blue;
+	}
+	a:active{
+	color:red;
+	}
+	a:visited{
+	color:purple;
+	}
+	</style>
+
+<h1 id="main-head">
+<a href="homepage.html">TuneFinder</a>
+	<div class="search">
+<input type="Text"  name="search" placeholder="Search" id="search">
+<button type="button" onclick="myFunction()" placeholder="Submit">Submit</button>
+
+
+</div>
+</h1>
+	</style>
+
+
+
+<br>
+<div class="input">
+<h2 class="words">
+Select your audio to find that tune 
+</h2>
+<div class="picture">
+<input type="image" src="spanish-listen-music.jpg" alt="Person listening to music" width="900" height="380">
+</div>
+<br>
+<input type="file" accept= audio/WAV id="userfile"></input>
+<input type="Text" name="path display" placeholder="Find that tune"  id="find">
+<input type="Submit" name="Find that tune" placeholder="Find that tune">
+</div>
+
+<script type="text/javascript" src="homepage.js" ></script>
+
+</html>
